@@ -20,11 +20,11 @@ develop and maintain systems and ensure they are reliable while still being user
 ----
 **Technical Skills**
 ----
-**Excellent**   |   **Average**  |   **Basic**
-----             -------           ------
-* HTML          | * JavaScript    |* Python
-* CSS           |                 |
-* Bootstrap     |                 |
+Excellent   |   Average |   Basic
+---- | ------- | ------
+* HTML| * JavaScript|* Python
+* CSS |  |
+* Bootstrap| |
 
 ----
 **Soft Skills**
