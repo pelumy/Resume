@@ -16,3 +16,41 @@ develop and maintain systems and ensure they are reliable while still being user
  -----
  **Github:**  https://github.com/pelumy<br/>
  **Linkedin:**  https://www.linkedin.com/in/itunu-raimi-7899b6155 <br/>
+
+----
+**Technical Skills**
+----
+**Excellent   |   **Average   |   **Basic
+* HTML           * JavaScript    * Python
+* CSS
+* Bootstrap
+
+----
+**Soft Skills**
+----
+* Collaboration
+* Team work
+* Time Management
+* Problem Solving
+* Communication
+* Ambitious
+* Fast learner
+
+----
+**Education and Certification
+----
+             
+2019     Front-end Developer Certification<br/>
+         GIRLCODE ACADEMY, YABA, LAGOS STATE.<br/>
+
+2019     Responsive Web Design Certification<br/>
+         FREECODECAMP.<br/>
+         _https://www.freecodecamp.org/certificacation/Itunu-raimi/responsive-web-design_<br/>
+
+2019     NATIONAL YOUTH SERVICE CORPS.<br/>
+
+2018     Bachelor of Agriculture(Hons) degree in _“Agricultural Economics”_<br/>
+         OBAFEMI AWOLOWO UNIVERSITY, ILE-IFE, OSUN STATE.<br/>
+
+
+
